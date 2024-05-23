@@ -1,4 +1,4 @@
-# ADBIS Eksanensprojekt 2024
+# ADBIS Eksamensprojekt 2024
 
 Dette er den vertikale prototype som er en del af det overordnet ADBIS projekt.
 

@@ -30,7 +30,6 @@ export async function GET() {
               næstformand.forEach(item => { //Loop for each datapoint connected to the formand.
                 const { label, data} = item;
 
-
                 const updateQuery = `
                 UPDATE forening
                 SET data = ?, updatedAt = ?
